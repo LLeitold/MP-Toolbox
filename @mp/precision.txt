@@ -1,0 +1,4 @@
+This file containes the default precision in bits for the mp Multiple-precision arithmetic Toolbox for MATLAB
+Default precision is:70
+Please use the static functions mp.getDefaultPrecision and mp.setDefaultPrecision
+to get and set the value!
